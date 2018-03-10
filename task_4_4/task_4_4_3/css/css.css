@@ -1,0 +1,88 @@
+body {
+    display: block;
+    margin: 4px;
+}
+@font-face {
+    font-family: Roboto; 
+    src: url(..//fonts/Roboto-Bold.ttf); 
+   }
+.wrap{
+	height: 450px;
+	width:600px ;
+	border: 4px solid #3366ff;
+	font-family: Roboto;
+	font-size: 36px;
+	color: #000
+}
+.tabl_1, .tabl_2,.kvadrat1, .text1, .kvadrat2, .text2, .kvadrat3, .text3, .kvadrat4, .text4, .kvadrat5, .text5{
+    position: relative;
+}
+.kvadrat1 {
+    top: -773px;
+    left: 12px;
+    height: 36px;
+    width: 36px;
+    background-color: #3366ff;
+}
+.text1 {
+    top: -814px;
+    left: 57px;
+}
+.tabl_1 {
+    border: 1px solid #3366ff;
+    width: 1px;
+    height: 420px;
+    top: 14px;
+    left: 192px;
+}
+.tabl_2 {
+    border: 1px solid #3366ff;
+    width: 1px;
+    height: 420px;
+    top: -406px;
+    left: 392px;
+}
+.kvadrat2 {
+    top: -5px;
+    left: -6px;
+    height: 36px;
+    width: 36px;
+    background-color: #3366ff;
+}
+.text2 {
+    top: -46px;
+    left: 38px;
+}
+.kvadrat3 {
+    top: 67px;
+    left: 51px;
+    height: 36px;
+    width: 36px;
+    background-color: #3366ff;
+}
+.text3 {
+    top: 26px;
+    left: -35px;
+}
+.kvadrat4 {
+    top: -163px;
+    left: 245px;
+    height: 36px;
+    width: 36px;
+    background-color: #3366ff;
+}
+.text4 {
+    top: -194px;
+    left: 191px;
+}
+.kvadrat5 {
+    top: 67px;
+    left: 233px;
+    height: 36px;
+    width: 36px;
+    background-color: #3366ff;
+}
+.text5 {
+    top: 22px;
+    left: 213px;
+}

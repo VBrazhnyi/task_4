@@ -1,0 +1,90 @@
+body {
+    display: block;
+    margin: 4px;
+}
+@font-face {
+    font-family: Roboto; 
+    src: url(..//fonts/Roboto-Bold.ttf); 
+   }
+.wrap{
+    height: 450px;
+    width:600px ;
+    border: 4px solid #3366ff;
+    font-family: Roboto;
+    font-size: 36px;
+    color: #000
+}
+.block1, .block2, .block3, .block4, .block5{
+     display: inline-block;
+}
+.kvadrat1 {
+    margin-top: 67px;
+    margin-left: 12px;
+    height: 36px;
+    width: 36px;
+    background-color: #3366ff;
+}
+.text1 {
+    margin-top: -41px;
+    margin-left: 57px;
+}
+.tabl_1 {
+    border: 1px solid #3366ff;
+    width: 1px;
+    height: 420px;
+    margin-top: -244px;
+    margin-left: 132px;
+}
+.tabl_2 {
+    border: 1px solid #3366ff;
+    width: 1px;
+    height: 420px;
+    margin-top: -134px;
+    margin-left: 141px;
+}
+.kvadrat2 {
+    margin-top: -5px;
+    margin-left: -6px;
+    height: 36px;
+    width: 36px;
+    background-color: #3366ff;
+}
+.text2 {
+    margin-top: -41px;
+    margin-left: 38px;
+}
+.kvadrat3 {
+    margin-top: 67px;
+    margin-left: 51px;
+    height: 36px;
+    width: 36px;
+    background-color: #3366ff;
+}
+.text3 {
+    margin-top: -41px;
+    margin-left: -35px;
+}
+.kvadrat4 {
+    margin-top: -339px;
+    margin-left: 245px;
+    height: 36px;
+    width: 36px;
+    background-color: #3366ff;
+}
+.text4 {
+    margin-top: -31px;
+    margin-left: 191px;
+}
+.kvadrat5 {
+    position: absolute;
+    margin-top: -257px;
+    margin-left: 233px;
+    height: 36px;
+    width: 36px;
+    background-color: #3366ff;
+}
+.text5 {
+    margin-top: -266px;
+    margin-left: 213px;
+    position: absolute;
+}
